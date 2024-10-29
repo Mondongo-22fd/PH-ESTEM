@@ -46,7 +46,7 @@
                 <li><strong>pH = 7:</strong> Considerada una solución neutra, como el agua pura.</li>
                 <li><strong>pH &gt; 7:</strong> Indica que la solución es básica o alcalina.</li>
             </ul>
-            <img src="escala.png" alt="Escala de pH" class="center-img">
+            <img src="https://sgc-lab.com/wp-content/uploads/2022/10/escala-de-ph.jpg" alt="Escala de pH" class="center-img">
             <p class="text-center">Ejemplos de pH de sustancias comunes incluyen ácido clorhídrico (pH ≈ 1) y amoníaco (pH ≈ 11).</p>
         </section>
 
@@ -75,7 +75,7 @@
             <h2>6. Soluciones Buffer</h2>
             <p class="text-center">Las soluciones buffer son mezclas que resisten cambios en el pH al agregar ácidos o bases.</p>
             <p class="text-center">Ejemplo: El ácido acético y el acetato de sodio forman un buffer que mantiene un pH cercano a 4.75.</p>
-            <img src="buffer-solutions.png" alt="Soluciones Buffer" class="center-img">
+            <img src="https://guatequimica.com/bootstrap/pages/buffers/img/BufferPotenciometro.jpg" alt="Soluciones Buffer" class="center-img">
         </section>
 
         <section id="factores">

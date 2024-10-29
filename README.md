@@ -46,7 +46,7 @@
                 <li><strong>pH = 7:</strong> Considerada una solución neutra, como el agua pura.</li>
                 <li><strong>pH &gt; 7:</strong> Indica que la solución es básica o alcalina.</li>
             </ul>
-            <img src="escala-ph.png" alt="Escala de pH" class="center-img">
+            <img src="escala-ph.jpg" alt="Escala de pH" class="center-img">
             <p class="text-center">Ejemplos de pH de sustancias comunes incluyen ácido clorhídrico (pH ≈ 1) y amoníaco (pH ≈ 11).</p>
         </section>
 
